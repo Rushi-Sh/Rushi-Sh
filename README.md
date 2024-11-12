@@ -45,6 +45,4 @@
 
 <br clear="both">
 
-<img src="https://github.com/Rushi-Sh/Rushi-Sh/blob/main/.github/worflows/snake.yml" alt="Snake animation" />
-
 ###
