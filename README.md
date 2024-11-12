@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rushi Shah and I'm a Developer from Logic and Philanthropist from Heart</h2>
+<h2 align="left">Hi 👋! My name is Rushi Shah and I'm a Developer from Profession and Philanthropist from Heart</h2>
 
 ###
 
